@@ -15,7 +15,8 @@
 	<a href="#modules">مكونات النظام</a> •
 	<a href="#workflow">رحلة الطلب</a> •
 	<a href="#features">المميزات</a> •
-  <a href="#integrations">التكاملات</a>
+  <a href="#integrations">التكاملات</a> •
+  <a href="#docs">التوثيق</a>
 </p>
 
 ---
@@ -122,6 +123,21 @@ flowchart LR
 - Mobile: Flutter أو React Native
 - Backend: Node.js أو Python (FastAPI/Django)
 - Database: PostgreSQL أو MongoDB
+
+---
+
+<a id="docs"></a>
+
+## التوثيق
+
+- [فهرس التوثيق](docs/INDEX.md)
+- [المعمارية (Architecture)](docs/ARCHITECTURE.md)
+- [الباقات والأسعار](docs/PACKAGES.md)
+- [واجهات API + حالات الطلب](docs/API.md)
+- [نموذج البيانات + الصلاحيات](docs/DATA_MODEL.md)
+- [النشر والتشغيل](docs/DEPLOYMENT.md)
+- [الأمان والخصوصية](docs/SECURITY.md)
+- [خارطة الطريق (أفكار إضافية)](docs/ROADMAP.md)
 
 ---
 
